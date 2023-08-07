@@ -30,7 +30,7 @@
 
 ---
 
-> AWS Educate Cloud Ambassador, Technical Support
+> AWS Educate Cloud Ambassador Lead, Technical Support
 > Jeffrey Wang
 > 
 > 
@@ -40,7 +40,7 @@
 > </aside>
 > 
 
-> AWS Educate Cloud Ambassador, Technical Support
+> AWS Educate Cloud Ambassador Lead, Technical Support
 > Andy Lee
 > 
 > 
