@@ -35,7 +35,7 @@
 > 
 > 
 > <aside>
-> 📩 Jeffrey.wanggg@gmail.com
+> 📩 jeffrey.wanggg@gmail.com
 > 
 > </aside>
 > 
