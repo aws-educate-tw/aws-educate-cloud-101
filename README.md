@@ -1,6 +1,6 @@
 # AWS Educate Cloud Ambassador
 
-![cloudambassador.png](AWS-Educate-Cloud-Ambassador-Cloud-101-Course-Note/cloudambassador.png)
+![cloudambassador.png](AWS-Educate-Cloud-Ambassador-Cloud-101-Course-Note/awscloudambassador.png)
 
 # [Introduction to Cloud 101]  Course Note
 
